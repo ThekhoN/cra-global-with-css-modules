@@ -1,0 +1,30 @@
+.global-special {
+	font-size: 88px;
+	font-family: sans-serif;
+	font-weight: bold;
+	color: chocolate;
+}
+
+.globalSpecial {
+	background: white;
+	color: orange !important;
+	/*font-family: sans-serif;*/
+}
+
+/*
+:global h2 {
+	font-size: 36px;
+}
+
+:global .global-special {
+	font-size: 88px;
+	font-family: sans-serif;
+	font-weight: bold;
+}
+
+.globalSpecial {
+	font-size: 88px;
+	font-family: sans-serif;
+	font-weight: bold;
+}
+*/
